@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navi_chat"
+        android:icon="@drawable/chat_navigation"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/navi_folder"
+        android:icon="@drawable/folder_navigation"
+        android:title="Files" />
+
+    <item
+        android:id="@+id/navi_add"
+        android:icon="@drawable/add_navigation"
+        android:title="Add" />
+
+    <item
+        android:id="@+id/navi_fav"
+        android:icon="@drawable/favorite_navigation"
+        android:title="Favorite" />
+
+    <item
+        android:id="@+id/navi_user"
+        android:icon="@drawable/person_navigation"
+        android:title="Profile" />
+
+</menu>
